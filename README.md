@@ -8,7 +8,7 @@
 * Откройте скрипт
 * Измените цифры ниже на свои, которые вы можете узнать с помощью [программы](https://github.com/ElektroStudios/Mouse-Point-Viewer/releases)
 
-[Пример](https://photo-screen.ru/i/7LXie8CJe) как должна выглядить зона
+[Пример](https://photo-screen.ru/i/gx9hIVKEI) как должна выглядить зона
 
 ```
 X1 := 424 ; угол 1
