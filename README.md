@@ -1,11 +1,13 @@
 # basalt-miner-bot
 Бот для игры на канале https://www.twitch.tv/zakvielchannel
+
 Данный бот добывает за вас ресурсы, вам остается запустить и отойти от пк, бот все сделает за вас
 
 # Как использовать?
 
 * Откройте скрипт
 * Измените цифры ниже на свои, которые вы можете узнать с помощью [программы](https://github.com/ElektroStudios/Mouse-Point-Viewer/releases)
+
 [Пример](https://photo-screen.ru/i/7LXie8CJeб) как должна выглядить зона
 
 ```
