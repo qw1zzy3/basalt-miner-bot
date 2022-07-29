@@ -4,7 +4,7 @@ global Py
 
 pixelExist(Color)
 {
-; координаты зоны с игрой, пример как должна выглядить зона - https://photo-screen.ru/i/7LXie8CJe
+; координаты зоны с игрой, пример как должна выглядить зона - https://photo-screen.ru/i/gx9hIVKEI
 ; ссылка на софт для определения координат - https://github.com/ElektroStudios/Mouse-Point-Viewer/releases
 X1 := 424 ; угол 1
 Y1 := 375 ; угол 1
